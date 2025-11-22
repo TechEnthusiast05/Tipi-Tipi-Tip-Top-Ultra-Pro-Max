@@ -16,7 +16,7 @@ int main()
     printf("\nEnter any number between 1 -4 : ");
     scanf("%d", &n);
 
-// case wala thing is only applicable under the switch case statement u cannot use it directly
+// case wala thing is only applicable under the switch case statement u cannot use it directly so instaed use nested if esle
 
     if(cl == '1')        
     {
@@ -84,3 +84,4 @@ int main()
 
     return 0;
 }
+
